@@ -1,0 +1,17 @@
+The First Phase
+
+The first submission must focus on establishing the foundation for a secure and private identity mechanism for the application.  Your team must demonstrate that the requirements for users and roles stated above can be implemented.  (Be aware that an admin might also be a student.  How can that be supported?)
+
+Each user has account information that includes:
+
+    an email address
+    a user name
+    a password (a non-string data type)
+    a flag indicating that the password is a one-time password that requires the generation of a new password
+    a date and time after which a one-time password is no longer valid
+    the individual's name (first, middle, last, preferred)
+    a list of system-recognized topics; for each one of the following: beginner, intermediate, advanced, expert (with intermediate being the default)
+
+The requirements, architecture, and design at a high level need to be sketched out for the whole help system, even though many of the details are not yet known in detail.  The Professor will hold evening events (that will be recorded and made available to all) where students can elicit information for the application.
+
+Two screencasts must be provided.  The first is a technical screencast that explains the flow from the requirements through to the working application.  The second is a how-to-use screencast aimed at three separate groups: students, admins, and instructional team members.
